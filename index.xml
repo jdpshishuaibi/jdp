@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>贾丁鹏的个人主页</title>
-    <link>https://github.com/jdpshishuaibi/jdp/</link>
+    <link>https://jdpshishuaibi.github.io/jdp/</link>
     <description>Recent content on 贾丁鹏的个人主页</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://github.com/jdpshishuaibi/jdp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jdpshishuaibi.github.io/jdp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>贾丁鹏</title>
+      <link>https://jdpshishuaibi.github.io/jdp/resume/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdpshishuaibi.github.io/jdp/resume/</guid>
+      <description>&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;电话：15751770487&lt;/li&gt;&#xA;&lt;li&gt;邮箱：15751770487@163.com&lt;/li&gt;&#xA;&lt;li&gt;地址：江苏南通&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;教育经历&#34;&gt;教育经历&lt;/h2&gt;&#xA;&lt;h3 id=&#34;江苏大学&#34;&gt;江苏大学&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;车辆工程硕士&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;课程：中国特色社会主义理论与实践研究、自然辩证法概论、矩阵论、数理统计、车辆系统动力学、车辆系统控制模型开发与硬件在环境技术、新能源汽车能量管理&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;车辆工程本科&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;课程：工程图学、力学（材料力学、理论力学）、流体力学、热力学、电工电子学、机械原理、机械设计基础、机械制造基础、汽车构造、汽车理论、汽车设计、汽车试验学&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;实习经历&#34;&gt;实习经历&lt;/h2&gt;&#xA;&lt;h3 id=&#34;比亚迪&#34;&gt;比亚迪&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;规控算法实习生&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;协同团队搭建了基于ROS2的Planning仿真平台，并策划了一系列多样化的测试用例，以验证Planning功能的可靠性和准确性。&lt;/li&gt;&#xA;&lt;li&gt;设计并编写了高效的纯跟踪控制器，并进行了全面验证，确保在仿真平台中控制节点的正常运行。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;社团和组织经历&#34;&gt;社团和组织经历&lt;/h2&gt;&#xA;&lt;h3 id=&#34;江苏大学汽车工程研究院&#34;&gt;江苏大学汽车工程研究院&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;团支书&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;负责学生政治学习的召开，开展丰富、有益的团日活动。&lt;/li&gt;&#xA;&lt;li&gt;协助班长更好的开展班内、系内工作，积极在班内大面积发展党员。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;专业技能&#34;&gt;专业技能&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;熟悉C++、Matlab等编程语言，Simulink、Prescan、Carsim等仿真软件，了解Python。&lt;/li&gt;&#xA;&lt;li&gt;熟悉VSCode、Clion、Pycharm等代码管理工具，熟悉Linux开发环境。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;荣誉奖项&#34;&gt;荣誉奖项&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;汽车工程研究院院优秀学生干部 2022年&lt;/li&gt;&#xA;&lt;li&gt;江苏省研究生数学建模科研创新实践大赛三等奖 2022年&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;技能证书及其他&#34;&gt;技能/证书及其他&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;技能：PowerPoint，Excel，Word，python，深度学习&lt;/li&gt;&#xA;&lt;li&gt;证书/执照： CAD工程师认证，计算机二级，驾驶证，UG工程师认证，CATIA&lt;/li&gt;&#xA;&lt;li&gt;语言：英语（CET-6）&lt;/li&gt;&#xA;&lt;li&gt;兴趣爱好：羽毛球（院队队员）、乒乓球、唱歌、跳绳、跑步&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
